@@ -14,13 +14,13 @@
 		<string>https://emad81.github.io/Tahator.png</string>
 	</dict>
 	<key>method</key>
-	<string>development</string>
+	<string>ad-hoc</string>
 	<key>signingStyle</key>
 	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>XK3VYX9T5A</string>
+	<string>DET7K8HC3E</string>
 	<key>thinning</key>
 	<string>&lt;none&gt;</string>
 </dict>
