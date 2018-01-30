@@ -12,19 +12,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://meta.iiau.ac.ir/dana.ipa</string>
+					<string>https://emad81.github.io/dana.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://meta.iiau.ac.ir/dana.png</string>
+					<string>https://emad81.github.io/dana.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://meta.iiau.ac.ir/dana.png</string>
+					<string>https://emad81.github.io/dana.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -44,7 +44,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://meta.iiau.ac.ir/dana-iPad%20(4th%20generation)-etc.ipa</string>
+					<string>https://emad81.github.io/dana-iPad%20(4th%20generation)-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad3,6</string>
@@ -59,7 +59,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://meta.iiau.ac.ir/dana-iPad%202-etc.ipa</string>
+					<string>https://emad81.github.io/dana-iPad%202-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad2,3</string>
@@ -75,7 +75,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://meta.iiau.ac.ir/dana-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
+					<string>https://emad81.github.io/dana-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
@@ -107,7 +107,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://meta.iiau.ac.ir/dana-iPhone%206%20Plus-etc.ipa</string>
+					<string>https://emad81.github.io/dana-iPhone%206%20Plus-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,2</string>
@@ -124,7 +124,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://meta.iiau.ac.ir/dana-iPhone%208-etc.ipa</string>
+					<string>https://emad81.github.io/dana-iPhone%208-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,1</string>
@@ -143,7 +143,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://meta.iiau.ac.ir/dana-iPod%20touch-etc.ipa</string>
+					<string>https://emad81.github.io/dana-iPod%20touch-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone5,2</string>
